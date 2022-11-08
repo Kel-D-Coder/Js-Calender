@@ -1,0 +1,26 @@
+body {
+   background-image: url(./img/calendar.png);
+}
+
+.dateContainer {
+   margin: auto;
+   text-align: center;
+   margin-top: 200px;
+   width: 200px;
+   height: 200px;
+   border-bottom-left-radius: 50px;
+   border-top-right-radius: 50px;
+   padding: 50px;
+   color: white;
+}
+
+.date {
+   padding-top: 10px;
+   margin-bottom: 20px;
+   font-size: 30px;
+}
+
+#Month {
+   font-size: 50px;
+   letter-spacing: 20px;
+}
